@@ -1,0 +1,9 @@
+AHLM/.idea
+
+*.pyc
+
+AHLM/AHLM/local_*.py
+
+/env
+
+*.sqlite3
