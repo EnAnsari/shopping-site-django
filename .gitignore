@@ -1,8 +1,8 @@
-AHLM/.idea
+shop/.idea
 
 *.pyc
 
-AHLM/AHLM/local_*.py
+shop/shop/local_*.py
 
 /env
 
